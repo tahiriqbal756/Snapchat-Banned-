@@ -18,3 +18,5 @@ pkg update -y && pkg upgrade -y
 pkg install python -y
 pip install requests
 https://github.com/tahiriqbal756/Snapchat-Banned-.git
+cd Snapchat-Banned-
+python SnapBan.py
